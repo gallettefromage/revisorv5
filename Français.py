@@ -32,7 +32,7 @@ class Code:
         self.parti_qts.destroy()
         self.parti_qts = Frame(self.fenetre, height= 780, width= 2000)
         self.parti_qts.place(x=0,y=125)
-        qts = random.randint(0,4)
+        qts = random.randint(0,10)
         match qts:
             case 0:
                 self.question.QCM.text(self)

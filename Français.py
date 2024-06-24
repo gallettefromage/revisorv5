@@ -448,7 +448,7 @@ class Code:
                             
                             # Question 3 : Rappelez les 3 formes de phrases ?
                             ["Rappelez les 3 formes de phrases ?", 
-                            "passive, active, emphatique", 
+                            "négative. positive emphatique", 
                             "Active, passive, pronominale", 
                             "Simple, complexe, composée", 
                             "Affirmative, négative, exclamative"],

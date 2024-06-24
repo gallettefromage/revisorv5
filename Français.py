@@ -444,11 +444,11 @@ class Code:
                             "Déclarative, interrogative, exclamative, impérative", 
                             "Déclarative, exclamative, conditionnelle, impérative", 
                             "Interrogative, négative, conditionnelle, impérative", 
-                            "Déclarative, interrogative, conditionnelle, exclamative"],
+                            "Déclarative, interrogative, conditionnelle, passive"],
                             
                             # Question 3 : Rappelez les 3 formes de phrases ?
                             ["Rappelez les 3 formes de phrases ?", 
-                            "Affirmative, négative, interrogative", 
+                            "passive, active, emphatique", 
                             "Active, passive, pronominale", 
                             "Simple, complexe, composée", 
                             "Affirmative, négative, exclamative"],
